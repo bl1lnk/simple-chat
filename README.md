@@ -1,0 +1,6 @@
+# simple-chat
+.env
+NODE_ENV = production
+PORT = 5000
+MONGO_URI = mongodb://localhost:27017/chatMute
+JWT_TOKEN = lolipop
